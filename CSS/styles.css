@@ -1,18 +1,50 @@
 body {
-  background-color: #8273974;
+  background-color: lightcyan;
+  text-align: center;
 }
-h1{
+
+h1 {
   color: #4d4c7d;
 }
-h3{
+
+h3 {
   color: #4d4c7d;
 }
+
 hr {
   background-color: none;
   border: 0px;
   border-top: dotted;
-  border-color: greey;
+  border-color: grey;
   border-width: 5px;
   hight: 0px;
   width: 5%;
+}
+table{
+  align="center"
+}
+
+/*******************************************************CLASS ******************************************/
+.top{
+  text-align: center;
+  position: relative;
+  width: 100%;
+  border: solid 0px;
+  border-color: white;
+}
+
+}
+.darkblue {
+  color: #4d4c7d;
+}
+
+.oneback {
+  margin: 0px;
+  margin-top: 2px;
+}
+
+.contact-me {
+  text-align: center;
+  border: solid 0px;
+  border-color: white;
 }
